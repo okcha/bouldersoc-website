@@ -3,4 +3,10 @@
 @theme {
     --color-society-blue: #162661;
     --color-society-teal: #98CBB1;
+    --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+    --font-heading: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
 }
