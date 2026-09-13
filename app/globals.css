@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+@theme {
+    --color-society-blue: #162661;
+    --color-society-teal: #98CBB1;
+}
